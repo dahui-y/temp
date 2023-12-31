@@ -1,0 +1,42 @@
+[
+    {
+        "IXI_ID":2,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 36-year-old, healthy female subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    },
+    {
+        "IXI_ID":12,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 39-year-old, healthy male subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    },
+    {
+        "IXI_ID":13,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 47-year-old, healthy male subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    },
+    {
+        "IXI_ID":14,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 34-year-old, healthy female subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    },
+    {
+        "IXI_ID":15,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 24-year-old, healthy male subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    },
+    {
+        "IXI_ID":16,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 55-year-old, healthy male subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    },
+    {
+        "IXI_ID":17,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 29-year-old, healthy female subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    },
+    {
+        "IXI_ID":19,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 59-year-old, healthy male subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    },
+    {
+        "IXI_ID":20,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 39-year-old, healthy male subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    },
+    {
+        "IXI_ID":21,
+        "prompt":"A T1-weighted sagittal brain MRI scan of a 22-year-old, healthy female subject, with high-resolution imaging at 256x256 pixels, showing clear differentiation between gray and white matter and all typical anatomical structures accurately represented."
+    }
+]
